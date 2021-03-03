@@ -1,1 +1,1 @@
-# Python-mini-projects
+# Movie Information Scraper
